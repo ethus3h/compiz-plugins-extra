@@ -526,7 +526,8 @@
                     <_short>Outline Thickness</_short>
                     <_long>Outline Thickness</_long>
                     <default>2</default>
-                    <min>0</min>
+                    <min>1</min>
+                    <max>8</max>
                 </option>
 		<option name="outline_color" type="color">
 		    <_short>Outline Color</_short>
