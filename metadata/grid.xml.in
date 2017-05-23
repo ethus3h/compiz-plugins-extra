@@ -15,47 +15,47 @@
 		<option name="put_left_key" type="key">
 		    <_short>Put Left</_short>
 		    <_long>Move window to the left edge</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;q</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_4</default>
 		</option>
 		<option name="put_right_key" type="key">
 		    <_short>Put Right</_short>
 		    <_long>Move window to the right edge</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;e</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_6</default>
 		</option>
 		<option name="put_top_key" type="key">
 		    <_short>Put Top</_short>
 		    <_long>Move window to the top edge</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;2</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_8</default>
 		</option>
 		<option name="put_bottom_key" type="key">
 		    <_short>Put Bottom</_short>
 		    <_long>Move window to the bottom edge</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;s</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_2</default>
 		</option>
 		<option name="put_topleft_key" type="key">
 		    <_short>Put Top Left</_short>
 		    <_long>Move window to the top left corner</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;1</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_7</default>
 		</option>
 		<option name="put_topright_key" type="key">
 		    <_short>Put Top Right</_short>
 		    <_long>Move window to the top right corner</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;3</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_9</default>
 		</option>
 		<option name="put_bottomleft_key" type="key">
 		    <_short>Put Bottom Left</_short>
 		    <_long>Move window to the bottom left corner</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;a</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_1</default>
 		</option>
 		<option name="put_bottomright_key" type="key">
 		    <_short>Put Bottom Right</_short>
 		    <_long>Move window to the bottom right corner</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;d</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_3</default>
 		</option>
 		<option name="put_maximize_key" type="key">
 		    <_short>Maximize</_short>
 		    <_long>Maximize window</_long>
-		    <default>&lt;Shift&gt;&lt;Alt&gt;w</default>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;KP_0</default>
 		</option>
 		<option name="cycle_sizes" type="key">
 		    <_short>Cycle Through Multiple Sizes</_short>
@@ -534,9 +534,9 @@
 		    <_short>Outline Color</_short>
 		    <_long>Color of the resize indicator outline</_long>
 		    <default>
-			<red>0x6464</red>
-			<green>0x6464</green>
-			<blue>0x9797</blue>
+			<red>0x2f2f</red>
+			<green>0x2f2f</green>
+			<blue>0x4f4f</blue>
 			<alpha>0x9f9f</alpha>
 		    </default>
 		</option>
@@ -544,10 +544,10 @@
 		    <_short>Fill Color</_short>
 		    <_long>Fill color of the resize indicator</_long>
 		    <default>
-			<red>0xe1e1</red>
-			<green>0xcdcd</green>
-			<blue>0xffff</blue>
-			<alpha>0xa9a9</alpha>
+			<red>0x2f2f</red>
+			<green>0x2f2f</green>
+			<blue>0x4f4f</blue>
+			<alpha>0x4f4f</alpha>
 		    </default>
 		</option>
 	    </group>
